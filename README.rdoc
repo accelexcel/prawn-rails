@@ -1,6 +1,6 @@
 = Prawn::Rails
 
-Prawn::Rails provides a simple way of creating PDF views in Rails 3 using the prawn library.
+Prawn::Rails provides a simple way of creating PDF views in Rails 3 using the prawn library..
 
 To use Prawn::Rails simply add the line
 
